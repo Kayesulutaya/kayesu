@@ -1,0 +1,116 @@
+<!doctype.html>
+<html>  
+<head>
+<title>online movies</title>
+<a href ="./css/style.css"></a>
+</head>
+<body>
+<navbar>
+<div class ="logo"><img class="logo" src="./images/logo.jpg"widith="50px" height="50px">
+<ul>
+<li>
+<a href="home"</a>
+<a href="genres"</a>
+<a href="Favourites"</a>
+<a href="contact us"</a>
+</li>
+<ul>
+</navbar>
+<div>
+<hero-section>
+<div class="hero-section">
+<h1>MOVIE RANKING SITE.</h1>
+<h2>Welcome to our curated collection of top-rated films,where every movie lover can find something to cherish our comprehensive ranking and reviews are here to guide you through the mesmering world of cinema</h2>
+<img src="./images/ggg.jpg"width="150px"height="150px">
+</hero-section>
+</div>
+ <div class="container">
+<form action="https://www.google.com/search" method="get" class="search_bar">
+<input type="text" placeholder="search any movie">
+<button type="submit"><img src="icon.jpg"></button>
+</form>
+ </div>
+<h3>MOVIE GENRES<h3>
+<div class="section">
+<div class ="image-section">
+<div>
+<img class="1" src="./images/aaa.jpg"width="150px"height="150px">
+<p>ACTION MOVIE</p>
+</div>
+<div>
+<img class="1" src="./images/bbb.jpg"width="150px"height="150px">
+<p>LOVE STORY</p>
+</div>
+<div>
+<img class="1" src="./images/ccc.jpg"width="150px"height="150px">
+<p>SCI-FICTION</p>
+</div>
+</div>
+</div>
+<h3>TOP THREE MOVIES</h3>
+<div>
+<img class="1" src="./images/ddd.jpg"width="150px"height="150px">
+<ol>
+<li>
+<p>watch now</p>
+</li>
+</div>
+<div>
+<img class="1" src="./images/eee.jpg"width="150px"height="150px">
+<ol>
+<li>
+<p>watch now</p>
+</li>
+</div>
+<div>
+<img class="1" src="./images/fff.jpg"width="150px"height="150px">
+<ol>
+<li>
+<p>watch now</p>
+</li>
+</div>
+<footer>
+<div>
+<h4>MOVIE LINKS</h4>
+ <ul>
+ <li><a href="">MRP HOME PAGE</a></li>
+ <li><a href="">MRP LATEST REVIEWS</a></li>
+  < li><a href="">BROWSE MOVIES</a></li>
+<li><a href="">FIND NEW CHANNELS</a></li>
+  </ul>
+  </div>
+  <div>
+  <h4>Term</h4>
+ <ul>
+ <li><a href="">policy</a></li>
+<li><a href="">Terms</a></li>
+<li><a href="">conditions</a></li>
+</ul>
+</div>
+<div>
+<h4>socials</h4>
+ <ul>
+ <img src= "images/facebook.jpg"width="25"height="25"> <a href = "www.facebook.com"></a>
+<img src= "images/instagram.jpg" width="25"height="25"><a href = "www.instagram.com"></a>
+<img src= "images/twitter.jpg" width="25"height="25"><a href = "www.twitter.com"></a>
+ </ul>
+ </div>
+ <div>
+ <label for="msg">SUBSCRIBE TO OUR NEWSLETTER</label>
+ <div>
+ <textarea name="" id="msg" rows="4"
+  placeholder="ENTER YOUR EMAIL"></textarea>
+ </div>
+</div>
+<button>submit</button>
+ </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
